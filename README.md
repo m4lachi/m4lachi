@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m4lachi
+- 👋 Hi, I’m @m4lachi or Michelle
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on any challenging project
 - 📫 How to reach me Here at my LinkedIn: https://www.linkedin.com/in/michelle-zambrano-m4l
 
