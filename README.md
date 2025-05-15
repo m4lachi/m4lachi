@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4lachi or Michelle
+- 👋 Hi, I’m m4lachi or Michelle
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently know Python, Java, and C++!
 - 💞️ I’m looking to collaborate on any challenging project
